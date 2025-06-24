@@ -1,0 +1,12 @@
+1. 对比以下函数
+   	np.maximum()
+  	np.max()
+	np.amax()
+        np.argmax
+
+ 2.  对比
+        import math
+	math.hypot()
+     和numpy中的欧氏距离
+
+3. 使用两个思维导图总结python和numpy

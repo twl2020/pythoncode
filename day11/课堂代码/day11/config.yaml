@@ -1,0 +1,14 @@
+server.config:
+  server: tomcat
+  host: 192.168.10.10
+  port: 80
+
+db.config:
+  name: mysql
+  url: 192.168.10.11
+  port: 3306
+  username:
+      - root
+      - admin
+      - test
+  password: 123456
