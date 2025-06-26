@@ -46,5 +46,5 @@ t1.join(timeout): 什么情况会解除阻塞
 1. 时间到了
 2. t1执行完了
 """
-t1.join(10)
+t1.join(1)
 t2.start()
